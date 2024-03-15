@@ -10,9 +10,11 @@ namespace gapdolls.Data
 {
     public class gapdollsContext : IdentityDbContext
     {
+
         public gapdollsContext (DbContextOptions<gapdollsContext> options)
             : base(options)
         {
+
         }
 
         public DbSet<gapdolls.Models.Dolls> Dolls { get; set; } = default!;
