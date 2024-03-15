@@ -64,12 +64,17 @@ Tried authentication......and successfully finished..............
 Started authentication....ended up with lot of error...solved successfully...finally I got admin( where admin can 
 edit delete papers) and user account ( view only)..........
 Now tried to open the published link ..but got an http error....tried a alot to solve this...again started new app service in azure and tried... successfully deployed.                         
-Admin account                                       
-user name:                                             
-password:                                                
+I have changed Admin details due to some issues....Here is the new Credentials
+
+
+Admin account        
+
+user name:  GAPDOLLS@gmail.com                                           
+password:   Dolls@123     
+
 user account                                     
-user name:                                             
-password:
+user name:     Dolls@gmail.com                                        
+password:      Dolls@123
 
 Panthini :
 
