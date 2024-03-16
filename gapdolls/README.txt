@@ -55,16 +55,21 @@ Gayatri:
 
 Sucessfully done authentication by following the steps. After that i have pushed the file.
 I have created database then server then web app in azure and linked my github account....
-...published to azure ......but I faced difficulty to publish...
-my project version is not supported coz I downloaded preview version....
-Installed community version...and again did the project ...then tried to deploy ......successfully published.     
+...published to azure ......but I faced difficulty to publish... ...then tried to deploy ......successfully published. 
+
 20240312.   2035      
-Tried authentication......and successfully finished..............            
+Tried authentication......and successfully finished.............
+
 20240312.   0156.                                 
 Started authentication....ended up with lot of error...solved successfully...finally I got admin( where admin can 
 edit delete papers) and user account ( view only)..........
 Now tried to open the published link ..but got an http error....tried a alot to solve this...again started new app service in azure and tried... successfully deployed.                         
 I have changed Admin details due to some issues....Here is the new Credentials
+
+
+Panthini :
+
+Created account on assure. Got 100$ credit. Then I helped Arti and Gayatri to sign up the account. Edit readme.
 
 
 Admin account        
@@ -75,7 +80,3 @@ password:   Dolls@123
 user account                                     
 user name:     Dolls@gmail.com                                        
 password:      Dolls@123
-
-Panthini :
-
-Created account on assure. Got 100$ credit. Then I helped Arti and Gayatri to sign up the account. Edit readme.
