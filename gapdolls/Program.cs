@@ -10,7 +10,7 @@ builder.Services.AddDbContext<gapdollsContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("gapdollsContext") ?? throw new InvalidOperationException("Connection string 'gapdollsContext' not found.")));
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+var connectionString = builder.Configuration.GetConnectionString("gapdollsContext") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<gapdollsContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
